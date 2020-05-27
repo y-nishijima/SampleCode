@@ -1,4 +1,5 @@
 {
+
   "name": "samplecode",
   "version": "1.0.0",
   "description": "",
@@ -16,4 +17,5 @@
     "url": "https://github.com/y-nishijima/SampleCode/issues"
   },
   "homepage": "https://github.com/y-nishijima/SampleCode#readme"
+  
 }
